@@ -1,3 +1,7 @@
+<img width="749" height="520" alt="image" src="https://github.com/user-attachments/assets/0311ba69-85bd-4627-9ea5-87cb2b5d44e2" />
+<img width="749" height="517" alt="image" src="https://github.com/user-attachments/assets/b8b409ce-49f8-4e57-ae3c-9bc0ac5110eb" />
+<img width="752" height="522" alt="image" src="https://github.com/user-attachments/assets/cbf08205-1e7a-40f4-9529-c3cd8de9b498" />
+<img width="757" height="519" alt="image" src="https://github.com/user-attachments/assets/c780be9d-b58e-4192-94f1-1afc033a6a47" />
 # 🖱️ Universal Auto-Clicker
 
 Современный, автономный и функциональный автокликер с неоновым киберпанк-интерфейсом. Позволяет автоматизировать нажатия мыши и клавиатуры с гибкой настройкой параметров.

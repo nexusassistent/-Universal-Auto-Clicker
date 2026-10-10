@@ -40,6 +40,15 @@
 - 💻 [GitHub](https://github.com/murzabekovmansur06-source)
 - 📜 [Pastebin](https://pastebin.com/u/1Mansur1)
 
+### 🛡️ Безопасность
+Программа проверена на [Kaspersky Threat Intelligence Portal](https://ti.kaspersky.com/) — угроз не обнаружено (Hits: 0). 
+Единичные срабатывания других антивирусов (False Positive) — стандартная ситуация для утилит автоматизации, использующих системные API Windows (`SendInput`, `SetWindowsHookEx`). Программа не содержит вредоносного кода.
+
+<img width="1913" height="527" alt="image" src="https://github.com/user-attachments/assets/26ebf3d1-f37e-4a93-b2a9-5cc1d21a47fc" />
+<img width="1920" height="602" alt="image" src="https://github.com/user-attachments/assets/79ba70c8-e987-4e32-ae00-a25337c0f3df" />
+
+
+
 ## 📄 Лицензия и авторские права
 © 2026 Mansur Murzabekov. Все права защищены (All Rights Reserved).
 
